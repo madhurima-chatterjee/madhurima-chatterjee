@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @madhurima-chatterjee
+- 👩🏻‍💻 A freelancer Data Analyst.
 - 👀 I’m interested in coding,Swimming,dancing & gardening.
 - 🌱 I’m currently learning Data-Science.
 - 📫 How to reach me - madhurimachatterjee526@gmail.com
